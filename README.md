@@ -1,4 +1,4 @@
-# Analyzing-Chaos-on-the-Pinched-2-Torus
+# Analyzing Chaos on the pinched 2-torus
 
 This project contains all of the code used for figures, diagrams and computations used in Sofia Brusegan's Bachelor thesis. The thesis focuses on detecting any chaotic behaviour that arises from adding a perturbation to a Hamiltonian system using the Melnikov method. The thesis explores a specific case where the family of homoclinic orbits form a pinched 2-torus, hence Melnikov's method has been adapted. The stable and unstable manifolds no longer align once the perturbation is added, hence the Melnikov method is used to detect their transverse intersections, which in turn imply the existence of a Smale horseshoe.
 

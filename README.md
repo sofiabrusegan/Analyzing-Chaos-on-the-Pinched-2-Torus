@@ -11,6 +11,9 @@ This project contains all of the code used for figures, diagrams and computation
  - Conversion between Cartesian and polar coordinates
  - Integrating equations of motions with respect to Cartesian or polar coordinates
 
+## Comments:
+The code used to show the stable and unstable manifolds intersecting was made with the support of Claude's Sonnet 4.6 model.
+
 ## Further reading and contacts
 The thesis which this code supports can be found at: [insert link]
 

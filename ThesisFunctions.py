@@ -471,7 +471,6 @@ def compute_and_plot(min_dist, max_dist, N_seeds, T_range, tolerance, N_crossing
     ax.set_xlabel("$r$")
     ax.set_ylabel("$p_r$")
     ax.legend(fontsize=12)
-    ax.grid()
     plt.tight_layout()
     plt.savefig(f"Stable and unstable manifolds c{c} eps{eps} Narcs{N_arcs}.pdf", format="pdf", bbox_inches = 'tight')
     plt.show()
